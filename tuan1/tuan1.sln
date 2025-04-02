@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baif1.1", "baif1.1\baif1.1.csproj", "{CD3D0013-2D76-4417-AA75-2D943E199131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3D0013-2D76-4417-AA75-2D943E199131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3D0013-2D76-4417-AA75-2D943E199131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3D0013-2D76-4417-AA75-2D943E199131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3D0013-2D76-4417-AA75-2D943E199131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {205C3F47-73FE-4C8C-AF43-1DADE432F129}
+	EndGlobalSection
+EndGlobal
