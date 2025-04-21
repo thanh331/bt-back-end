@@ -1,0 +1,14 @@
+D:\lập trình back-end\lap3.1\bai1lap3\bin\Debug\net8.0\bai1lap3.exe
+D:\lập trình back-end\lap3.1\bai1lap3\bin\Debug\net8.0\bai1lap3.deps.json
+D:\lập trình back-end\lap3.1\bai1lap3\bin\Debug\net8.0\bai1lap3.runtimeconfig.json
+D:\lập trình back-end\lap3.1\bai1lap3\bin\Debug\net8.0\bai1lap3.dll
+D:\lập trình back-end\lap3.1\bai1lap3\bin\Debug\net8.0\bai1lap3.pdb
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\bai1lap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\bai1lap3.AssemblyInfoInputs.cache
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\bai1lap3.AssemblyInfo.cs
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\bai1lap3.csproj.CoreCompileInputs.cache
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\bai1lap3.dll
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\refint\bai1lap3.dll
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\bai1lap3.pdb
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\bai1lap3.genruntimeconfig.cache
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\ref\bai1lap3.dll

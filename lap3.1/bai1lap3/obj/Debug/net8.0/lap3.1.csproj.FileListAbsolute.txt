@@ -1,0 +1,4 @@
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\lap3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\lap3.1.AssemblyInfoInputs.cache
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\lap3.1.AssemblyInfo.cs
+D:\lập trình back-end\lap3.1\bai1lap3\obj\Debug\net8.0\lap3.1.csproj.CoreCompileInputs.cache
